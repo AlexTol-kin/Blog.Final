@@ -1,7 +1,6 @@
 {
     "name": "my-app",
     "version": "0.1.0",
-    "homepage": "https://AlexTol-kin.github.io/Practice-Blog",
     "private": true,
     "proxy": "http://localhost:3001",
     "dependencies": {
